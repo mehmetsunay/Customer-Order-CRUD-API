@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\CustomerOrder.CrudApi\Services\CustomerOrder.Crud.Api.Services\bin\Debug\net5.0\CustomerOrder.CrudApi.Services.deps.json
+C:\Users\User\source\repos\CustomerOrder.CrudApi\Services\CustomerOrder.Crud.Api.Services\bin\Debug\net5.0\CustomerOrder.CrudApi.Services.dll
+C:\Users\User\source\repos\CustomerOrder.CrudApi\Services\CustomerOrder.Crud.Api.Services\bin\Debug\net5.0\ref\CustomerOrder.CrudApi.Services.dll
+C:\Users\User\source\repos\CustomerOrder.CrudApi\Services\CustomerOrder.Crud.Api.Services\bin\Debug\net5.0\CustomerOrder.CrudApi.Services.pdb
+C:\Users\User\source\repos\CustomerOrder.CrudApi\Services\CustomerOrder.Crud.Api.Services\bin\Debug\net5.0\CustomerOrder.CrudApi.Data.dll
+C:\Users\User\source\repos\CustomerOrder.CrudApi\Services\CustomerOrder.Crud.Api.Services\bin\Debug\net5.0\CustomerOrder.CrudApi.Data.pdb
+C:\Users\User\source\repos\CustomerOrder.CrudApi\Services\CustomerOrder.Crud.Api.Services\obj\Debug\net5.0\CustomerOrder.CrudApi.Services.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CustomerOrder.CrudApi\Services\CustomerOrder.Crud.Api.Services\obj\Debug\net5.0\CustomerOrder.CrudApi.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CustomerOrder.CrudApi\Services\CustomerOrder.Crud.Api.Services\obj\Debug\net5.0\CustomerOrder.CrudApi.Services.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CustomerOrder.CrudApi\Services\CustomerOrder.Crud.Api.Services\obj\Debug\net5.0\CustomerOrder.CrudApi.Services.AssemblyInfo.cs
+C:\Users\User\source\repos\CustomerOrder.CrudApi\Services\CustomerOrder.Crud.Api.Services\obj\Debug\net5.0\CustomerOrder.CrudApi.Services.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CustomerOrder.CrudApi\Services\CustomerOrder.Crud.Api.Services\obj\Debug\net5.0\CustomerOrder.CrudApi.Services.csproj.CopyComplete
+C:\Users\User\source\repos\CustomerOrder.CrudApi\Services\CustomerOrder.Crud.Api.Services\obj\Debug\net5.0\CustomerOrder.CrudApi.Services.dll
+C:\Users\User\source\repos\CustomerOrder.CrudApi\Services\CustomerOrder.Crud.Api.Services\obj\Debug\net5.0\ref\CustomerOrder.CrudApi.Services.dll
+C:\Users\User\source\repos\CustomerOrder.CrudApi\Services\CustomerOrder.Crud.Api.Services\obj\Debug\net5.0\CustomerOrder.CrudApi.Services.pdb
